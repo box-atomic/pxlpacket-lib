@@ -44,7 +44,7 @@
   ],
   "author": "jsk",
   "license": "ISC",
-  "packageManager": "pnpm@10.11.0",
+  "packageManager": "pnpm@10.34.7",
   "peerDependencies": {
     "zod": "^4.0.16"
   },
@@ -77,7 +77,7 @@
     }
   },
   "engines": {
-    "node": ">=20.19"
+    "node": "24.x"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
